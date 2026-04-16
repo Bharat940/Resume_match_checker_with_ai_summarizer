@@ -51,7 +51,7 @@ Resume_Keyword_Match_Checker/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/Resume_Keyword_Match_Checker.git
+git clone https://github.com/Bharat940/Resume_match_checker_with_ai_summarizer.git
 cd Resume_Keyword_Match_Checker
 ```
 
